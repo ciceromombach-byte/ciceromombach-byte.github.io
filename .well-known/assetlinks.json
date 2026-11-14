@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ciceromombach_byte.twa",
+      "sha256_cert_fingerprints": [
+        "38:18:71:C9:FA:F4:8C:9B:5B:A7:93:D1:3F:86:EB:FC:B9:46:4D:FE:3F"
+      ]
+    }
+  }
+]
